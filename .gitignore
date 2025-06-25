@@ -1,0 +1,9 @@
+# Backend
+Supplier_Matcher_Backend/__pycache__/
+Supplier_Matcher_Backend/*.pyc
+Supplier_Matcher_Backend/.env
+
+# Frontend
+Supplier_Matcher_Frontend/node_modules/
+Supplier_Matcher_Frontend/.next/
+Supplier_Matcher_Frontend/.env.local
