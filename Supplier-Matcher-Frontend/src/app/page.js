@@ -28,7 +28,7 @@ export default function Home() {
       setLoading(true);
       setResponseData(null); 
 
-      const res = await fetch('http://127.0.0.1:8000/upload', {
+      const res = await fetch('https://zaidali1-ai-powered.hf.space/upload/', {
         method: 'POST',
         body: formData,
       });
